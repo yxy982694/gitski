@@ -4,5 +4,9 @@ xiao hua ye lai le
 
 xiaoyu lai le
 kdjkfljasklfjkas
+<<<<<<< Updated upstream
 
 f999
+=======
+lkl
+>>>>>>> Stashed changes
